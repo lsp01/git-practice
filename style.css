@@ -3,7 +3,9 @@ html {
     font-size: 20px;
 }
 
-body {}
+body {
+    background: lightcyan;
+}
 
 h1 {
     font-size: 4rem;
@@ -17,6 +19,5 @@ header {
 }
 
 main {
-    background: lightcyan;
     color: darkmagenta;
 }
